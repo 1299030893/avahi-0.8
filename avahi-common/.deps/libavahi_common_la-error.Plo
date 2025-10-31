@@ -1,0 +1,28 @@
+libavahi_common_la-error.lo: error.c ../config.h error.h \
+ ../avahi-common/cdecl.h i18n.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/libintl.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h
+
+../config.h:
+
+error.h:
+
+../avahi-common/cdecl.h:
+
+i18n.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/libintl.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:

@@ -1,0 +1,114 @@
+libavahi_common_la-timeval.lo: timeval.c ../config.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/pthread.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/byteswap.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/sched.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stddef.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sched.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/xlocale.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/signal.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/setjmp.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/stdlib.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/waitflags.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/waitstatus.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/types.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/select.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/select.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/alloca.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/assert.h \
+ timeval.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/inttypes.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdint.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/stdint.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wchar.h \
+ /home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/time.h \
+ ../avahi-common/cdecl.h
+
+../config.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/pthread.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/features.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/predefs.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/cdefs.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wordsize.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/gnu/stubs.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/endian.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/endian.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/byteswap.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/sched.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/types.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/typesizes.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stddef.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/time.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sched.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/time.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/xlocale.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/signal.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/sigset.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/pthreadtypes.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/setjmp.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/stdlib.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/waitflags.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/waitstatus.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/types.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/select.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/select.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/sysmacros.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/alloca.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/assert.h:
+
+timeval.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/inttypes.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../lib/gcc/arm-none-linux-gnueabi/4.5.1/include/stdint.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/stdint.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/bits/wchar.h:
+
+/home/wangtinghu/workspace/CORSICA_20251028_REMOVE_HTTPS_UNSAFE_CIPHERS_LIST_CSC/Corsica_adv/trunk/ti_tools/cgt_a8/arm-2010.09/bin/../arm-none-linux-gnueabi/libc/usr/include/sys/time.h:
+
+../avahi-common/cdecl.h:
