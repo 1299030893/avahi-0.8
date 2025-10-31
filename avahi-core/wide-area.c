@@ -25,6 +25,8 @@
 #include <string.h>
 #include <unistd.h>
 #include <stdlib.h>
+#include <stdint.h>
+#include <fcntl.h>
 #include <netinet/in.h>
 
 #include <avahi-common/malloc.h>
@@ -257,9 +259,44 @@ static void sender_timeout_callback(AvahiTimeEvent *e, void *userdata) {
 static uint16_t get_random_uint16(void) {
     uint16_t next_id;
 
-    if (getrandom(&next_id, sizeof(next_id), 0) == -1)
-        next_id = (uint16_t) rand();
-    return next_id;
+    if (getrandom(&next_id, sizeof(next_id), 0) == (ssize_t) sizeof(next_id))
+        return next_id;
+
+    {
+        int fd;
+        ssize_t l;
+        size_t off = 0;
+
+#ifdef O_CLOEXEC
+        fd = open("/dev/urandom", O_RDONLY | O_CLOEXEC);
+#else
+        fd = open("/dev/urandom", O_RDONLY);
+#endif
+
+        if (fd >= 0) {
+            while (off < sizeof(next_id)) {
+                l = read(fd, (uint8_t*) &next_id + off, sizeof(next_id) - off);
+                if (l > 0)
+                    off += (size_t) l;
+                else if (l < 0 && errno == EINTR)
+                    continue;
+                else
+                    break;
+            }
+
+            close(fd);
+
+            if (off == sizeof(next_id))
+                return next_id;
+        }
+    }
+
+    {
+        struct timeval tv;
+        gettimeofday(&tv, NULL);
+        next_id = (uint16_t) (tv.tv_sec ^ tv.tv_usec ^ getpid() ^ getppid() ^ ((uintptr_t) &next_id));
+        return next_id;
+    }
 }
 
 static uint16_t avahi_wide_area_next_id(AvahiWideAreaLookupEngine *e) {
